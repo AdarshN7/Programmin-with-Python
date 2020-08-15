@@ -1,2 +1,3 @@
 # Programmin-with-Python
-Internshala Programming with ython
+Programming with python
+My fantasy Cricket game
